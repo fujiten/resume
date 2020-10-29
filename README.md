@@ -36,5 +36,6 @@ TOEIC: 830 (2020/5)
 
 ## ブログ等
 
-fujiten3.hatenablog.com
+https://fujiten3.hatenablog.com/
+
 https://twitter.com/wonder_meet
