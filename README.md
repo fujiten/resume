@@ -5,7 +5,15 @@
 エンジニアとして２年ほど経験があります。
 得意とする技術領域はバックエンド(RubyまたはPythonが主)ですが、React.js、Vue.jsでの開発経験もともに半年ほどあります。
 
-## 実績
+## スキルセット
+
+- Ruby (2 years)
+- JavaScript (1 year)
+- Python (1 year)
+- React.js (half year)
+- Vue.js (half year)
+
+## 関わってきた案件の概要
 
 - 受託開発で、MicroSoftのOSSである画像編集ツール（ https://github.com/microsoft/VoTT ）を利用し、機械学習のための画像データセットを作成するためのデスクトップアプリケーション(Electron + JQuery)の開発。
 
@@ -29,6 +37,9 @@
 
 社内SEとして、Wordpressを利用したHP作成や、社内ネットワーク構築など。
 
+## 学歴
+
+2017年 神戸大学経済学部 卒 
 
 ## 参考スコア
 
@@ -39,3 +50,5 @@ TOEIC: 865 (2020/12)
 https://fujiten3.hatenablog.com/
 
 https://twitter.com/wonder_meet
+
+https://zenn.dev/fujiten/scraps
