@@ -97,7 +97,7 @@ LINEのようなUIのアプリケーション開発のバックエンドを担�
 
 ## 職務経歴
 
-### 株式会社grabss 2019/10 ~ 現在
+### 株式会社grabss 2019/10 ~ 2021/3
 
 職務: 開発部 主任
 
@@ -115,12 +115,10 @@ LINEのようなUIのアプリケーション開発のバックエンドを担�
 
 ## 参考スコア
 
-TOEIC: 865 (2020/12)
+TOEIC: 890 (2021/05)
 
 ## ブログ等
 
 https://fujiten3.hatenablog.com/
 
 https://twitter.com/wonder_meet
-
-https://zenn.dev/fujiten/scraps
